@@ -13,6 +13,7 @@ The SVG Logo Maker is a command-line application that allows users to generate s
 * Testing
 * Walkthrough Video
 * Examples
+* Credits 
 * License
 
 
