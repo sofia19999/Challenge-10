@@ -70,8 +70,7 @@ The tests validate that each shape class (Circle, Triangle, and Square) correctl
 
 For a complete walkthrough of the application's functionality, including how to run the app and tests, please watch the following video:
 
-
-file:///Users/sofiyakaminskaya/Downloads/Untitled_%20Aug%2021_%202024%202_35%20AM.webm
+https://drive.google.com/file/d/1wFQzXbwvh56yqIMp7QtIAxIPKoW9w1Ac/view
 
 
 
